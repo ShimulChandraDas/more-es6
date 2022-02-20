@@ -17,5 +17,5 @@ const productColor = products.map(product => product.color);
 
 //products.map(product => console.log(product)) //returened the value
 /*................ or............. */
-products.forEach(product => console.log(product))// didn't returend
+//products.forEach(product => console.log(product))// didn't returend
 //console.log(productPrice)
